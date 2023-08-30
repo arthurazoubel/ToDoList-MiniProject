@@ -1,0 +1,26 @@
+body {
+    background: rgb(22, 9, 41);
+}
+.container {
+    max-width: 400px;
+}
+
+.input-fields:focus {
+    max-width: 400px;
+    outline: none;
+    border: 2px solid rgb(38, 225, 188);
+}
+
+button {
+    border: none;
+    background: transparent;
+}
+.todos li {
+
+}
+.delete {
+
+}
+.filtered {
+    display: none !important
+}
